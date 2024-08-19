@@ -1,2 +1,17 @@
-                @import 'variables';
+@import 'variables';
 
+
+.card-course-item {
+    margin-top: 16px;
+}
+
+.user-avatar {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    margin-right: 4px;
+}
+
+.chexbox-select-all-options {
+    width: 160px;
+}
